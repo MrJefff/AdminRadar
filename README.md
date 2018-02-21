@@ -108,4 +108,3 @@
 +-    Speedy2M For being an amazing Co-Developer and Logo Artist!
 +-    nivex For donating his custom AdminRadar for us to study!
 +-    Austinv900 For passing the plugin onto me!
-    
